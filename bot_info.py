@@ -1,2 +1,2 @@
 line_bot_token = 'JQL2ieSDS8E70ofe//R9V2uprs1PDbMgjFuxGrk1gjKY9yeYBtVxPS3B13bSjh7WOqyXAbHSekW6q0Vmxv4LKK8v3Gcn+DPrgG0xD6CrJj3ZgVXEqPVyu58n4li81QvTnMi7sIYn28oJhZ8o+ojolAdB04t89/1O/w1cDnyilFU='
-line_bot_secert = '3ba6c99271540f60b1de08a8c5ab2b60'
+line_bot_secret = '3ba6c99271540f60b1de08a8c5ab2b60'
